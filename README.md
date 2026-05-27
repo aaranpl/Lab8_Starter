@@ -1,3 +1,5 @@
+https://aaranpl.github.io/Lab8_Starter/
+
 Graceful degradation and service workers are closely related because service workers 
 act as the layer that preserves core functionality when network conditions degrade. 
 Graceful degradation starts with a fully-featured experience and ensures the app 
